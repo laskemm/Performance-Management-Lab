@@ -1,0 +1,20 @@
+/* Color Scheme */
+/* Night color: #003459; */
+/* Lake color: #2767ff; */
+/* Sky color: #73cbf2; */
+/* Fog color: #8e9fbc; */
+/* Steam color: #dde5ed; */
+/* Brick color: #971b2f; */
+/* Fire color: #ff3042; */
+/* Wheat color: #f2a900; */
+/* Terra Cotta color: #c66e4e; */
+/* Limestone color: #d7d2cb; */
+
+/* Header */
+.header{
+  background-color: #8e9fbc;
+}
+.header-logo{
+  padding: 7% 15%;
+  width:30%;
+}
